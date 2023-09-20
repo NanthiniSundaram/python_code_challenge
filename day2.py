@@ -1,4 +1,5 @@
 #challenge day2
+
 print("Getting to know you!")
 name=input("what's your name?:")
 food=input("What's your favourite food:")
