@@ -1,0 +1,10 @@
+#challenge day4
+print("Welcome to the adventure!!!")
+print("I am going to ask a bunch of questions and then create a story with you as a star!!")
+name=input("Enter your name >")
+place=input("Where do you live >")
+enemy=input("Who is your worst enemy >")
+power=input("Enter your superpower >")
+hero=input("Who is your favourite hero >")
+food=input("What is your favourite food >")
+print("Hello",name,"!!.Your superpower",power,"will make sure you defeat your",enemy,"and bring home the bacon!.Go eat",food,"as you walk down the streets of",place,"and live like your",hero,"!!")
