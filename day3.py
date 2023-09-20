@@ -1,4 +1,5 @@
 #challenge day3
+
 food=input("Name a food >")
 plant=input("Nama a type of plant >")
 cooking=input("Name a method of cooking >")
